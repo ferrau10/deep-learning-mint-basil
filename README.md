@@ -9,10 +9,10 @@ I wanted to see if I can train a CNN to recognise the difference in mint and bas
 I bought a basil and a mint plant, took more than 200 pictures pictures of the leafs in many different positions, thus creating my own data set. 
 
 ## Usage
-- Create a virtual environment with python 3.8 (optional): conda create -n py38 python=3.8
-- Activate the virtual environment (optional): conda activate py38
+- Create a virtual environment with python 3.8 (optional): `conda create -n py38 python=3.8`
+- Activate the virtual environment (optional): `conda activate py38`
 - clone the repository 
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
 - run the notebook 'Transfer_learning_mint_basil.ipynb'
 
 ## Results
