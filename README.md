@@ -16,4 +16,8 @@ I bought a basil and a mint plant, took more than 200 pictures pictures of the l
 - run the notebook 'Transfer_learning_mint_basil.ipynb'
 
 ## Conclusion
+### Plot of the loss and accuracy of my model 
+![visualization](./documentation_pictures/accuraccy.png)
+![visualization](./documentation_pictures/loss.png)
+
 Already after the first epoch, my model is doing very well, and especially after the 3d epoch, I have a testing accuracy score of 100%. This seemed too good to be true, so I looked back at my data and spotted my mistake: can you see it too? 
