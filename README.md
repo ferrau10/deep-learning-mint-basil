@@ -15,8 +15,8 @@ I bought a basil and a mint plant, took more than 200 pictures pictures of the l
 - pip install -r requirements.txt
 - run the notebook 'Transfer_learning_mint_basil.ipynb'
 
-## Conclusion
-### Plot of the loss and accuracy of my model 
+## Results
+#### Plots of the loss and accuracy of my model 
 ![visualization](./documentation_pictures/accuraccy.png)
 ![visualization](./documentation_pictures/loss.png)
 
