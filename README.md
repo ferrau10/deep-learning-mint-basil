@@ -1,4 +1,4 @@
-# Deep Learning 
+# Deep Learning on mint and basil leafs
 Using VGG-16, a pre-trained CNN (Convolutional Neural Network) to recognise pictures of basil and mint leafs. 
 
 ## The methodology
