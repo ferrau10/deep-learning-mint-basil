@@ -1,4 +1,4 @@
-# Deep Learning 
+# Deep Learning on mint and basil leafs
 Using VGG-16, a pre-trained CNN (Convolutional Neural Network) to recognise pictures of basil and mint leafs. 
 
 ## The methodology
@@ -15,8 +15,8 @@ I bought a basil and a mint plant, took more than 200 pictures pictures of the l
 - pip install -r requirements.txt
 - run the notebook 'Transfer_learning_mint_basil.ipynb'
 
-## Conclusion
-### Plot of the loss and accuracy of my model 
+## Results
+#### Plots of the loss and accuracy of my model 
 ![visualization](./documentation_pictures/accuraccy.png)
 ![visualization](./documentation_pictures/loss.png)
 
